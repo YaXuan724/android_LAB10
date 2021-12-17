@@ -5,6 +5,3 @@
     android:layout_width="match_parent"
     android:id="@+id/map"
     android:layout_height="match_parent"/>
-    <uses-library
-        android:name="org.apache.http.legacy"
-        android:required="false"/>
